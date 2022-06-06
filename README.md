@@ -1,2 +1,2 @@
 # rsschool-cv
-https://carnege.github.io/rsschool-cv/cv.md
+https://carnege.github.io/rsschool-cv/
